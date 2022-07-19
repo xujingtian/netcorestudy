@@ -1,9 +1,5 @@
 # 2、.NET CORE
 
-`dotnet new console --name DotNetCoreSample` 命令来在这个打开的终端里面创建一个基础的控制台程序
-
-
-
 ## 2.1 小知识
 
 ### 2.1.1 路线图
