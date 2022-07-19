@@ -108,7 +108,7 @@ info: Microsoft.Hosting.Lifetime[0]
 效果
 
 ```shell
-PS D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore> dotnet run
+PS D:\\01.StartupCore> dotnet run
 1、执行方法：ConfigureWebHostDefaults
 2、执行方法：Configure Host Configuration
 3、执行方法：Configure App Configuration
@@ -124,7 +124,7 @@ info: Microsoft.Hosting.Lifetime[0]
 info: Microsoft.Hosting.Lifetime[0]
       Hosting environment: Development
 info: Microsoft.Hosting.Lifetime[0]
-      Content root path: D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore
+      Content root path: D:\\01.StartupCore
       
 /*访问 http://localhost:5000/MyDipose/Get*/
 =======create subinstance==========
@@ -156,7 +156,7 @@ DisposableOrderService Disposed:30762424
 效果
 
 ```shell
-PS D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore> dotnet run
+PS D:\\01.StartupCore> dotnet run
 1、执行方法：ConfigureWebHostDefaults
 2、执行方法：Configure Host Configuration
 3、执行方法：Configure App Configuration
@@ -172,7 +172,7 @@ info: Microsoft.Hosting.Lifetime[0]
 info: Microsoft.Hosting.Lifetime[0]
       Hosting environment: Development
 info: Microsoft.Hosting.Lifetime[0]
-      Content root path: D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore
+      Content root path: D:\\01.StartupCore
 
 /*访问 http://localhost:5000/MyDipose/Get */
 =======create subinstance==========
@@ -204,7 +204,7 @@ info: Microsoft.Hosting.Lifetime[0]
 结果
 
 ```shell
-PS D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore> dotnet run
+PS D:\\01.StartupCore> dotnet run
 1、执行方法：ConfigureWebHostDefaults
 2、执行方法：Configure Host Configuration
 3、执行方法：Configure App Configuration
@@ -220,7 +220,7 @@ info: Microsoft.Hosting.Lifetime[0]
 info: Microsoft.Hosting.Lifetime[0]
       Hosting environment: Development
 info: Microsoft.Hosting.Lifetime[0]
-      Content root path: D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore
+      Content root path: D:\\01.StartupCore
 
 /*访问 http://localhost:5000/MyDipose/Get */
 =======create subinstance==========
@@ -251,7 +251,7 @@ DisposableOrderService Disposed:64270886
 结果
 
 ```shell
-PS D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore> dotnet run
+PS D:\\01.StartupCore> dotnet run
 1、执行方法：ConfigureWebHostDefaults
 2、执行方法：Configure Host Configuration
 3、执行方法：Configure App Configuration
@@ -267,7 +267,7 @@ info: Microsoft.Hosting.Lifetime[0]
 info: Microsoft.Hosting.Lifetime[0]
       Hosting environment: Development
 info: Microsoft.Hosting.Lifetime[0]
-      Content root path: D:\99.dean_pc\08.geektime\07.netcore\03.code\StartupCore\01.StartupCore
+      Content root path: D:\\01.StartupCore
 
 /*访问 http://localhost:5000/MyDipose/Get */
 =======create subinstance==========
